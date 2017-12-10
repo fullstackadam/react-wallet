@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 import Dashboard from '../components/Dashboard';
 import AddExpensePage from '../components/AddExpensePage';
-import EditExpense from '../components/EditExpense';
+import EditExpense from '../components/EditExpensePage';
 import HelpPage from '../components/HelpPage';
 import NotFound from '../components/NotFound';
 import { BrowserRouter, Route, Switch, Link, NavLink } from 'react-router-dom';
